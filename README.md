@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maghavefun
 - 👀 I’m interested in COOKIES
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML,CSS and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
